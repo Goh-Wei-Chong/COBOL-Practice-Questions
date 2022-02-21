@@ -1,0 +1,16 @@
+Amending IterCalc
+Amend the program so that instead of doing a fixed number of calculations (three in IterCalc.Cbl) it asks the user to enter the number of calculations required and then executes the loop that many times.
+The version of the PERFORM used in this program has the syntax PERFORM Identifer/Literal TIMES. That is, either an identifer or a literal can be used to indicate how many times the loop is to be executed. The current version of IterCalc.Cbl uses a literal. You must change it so that it uses an identifier.
+
+When run with the same data your amended program should the produce the results shown below.  For purposes of illustration, user input is shown enlarged and in bold.
+
+Example run
+Enter the number of calcs required :- 2
+Enter First Number : 3
+Enter Second Number : 3
+Enter operator (+ or *) : *
+Result is = 9
+Enter First Number : 3
+Enter Second Number : 3
+Enter operator (+ or *) : +
+Result is = 6
