@@ -1,0 +1,14 @@
+Making a new program
+Create a new program called Countdown.Cbl. This program should get the user's name from the keyboard and should then display a count-down before displaying the name that was entered.
+ 
+The program should produce results similar to those shown in the example run below.  For purposes of illustration, user input is shown enlarged and in bold.
+Example run
+Enter your name :- Mike Ryan
+Enter the count-down start value :- 05
+Getting ready to display your name.
+05
+04
+03
+02
+01
+Your name is Mike Ryan
