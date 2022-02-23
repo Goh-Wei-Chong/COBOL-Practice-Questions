@@ -1,2 +1,2 @@
 # COBOL-Practice-Questions
-These are some simple COBOL coding questions for practice
+These are some simple COBOL coding questions for practice [mainly for me :)]
